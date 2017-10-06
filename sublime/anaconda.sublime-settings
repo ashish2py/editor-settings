@@ -1,0 +1,5 @@
+{
+    "python_interpreter": "/Volumes/extended/virtualenvs/python3/bin/python",
+    "pep8_max_line_length": 120,
+    "anaconda_linter_mark_style": "stippled_underline",    
+}
